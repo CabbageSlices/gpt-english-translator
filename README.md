@@ -3,3 +3,4 @@ The entire project was also generated using GPT-4 by prompting chat gpt to gener
 
 each sub folder (v0, v1, v2, v3) was the state of the code after prompting chat-gpt to make modifications. The root folder contains the most recent version. Chat gpt logs used to generate the code is also provided.
 
+try it out: https://cabbageslices.github.io/gpt-english-translator
